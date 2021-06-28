@@ -1,6 +1,6 @@
 # Tip-Calculator-
 Here is assignment which will help you introduce a close to real application of JavaScript:
- you went to a restaurant, based on your experience you wants to pay tip to the waiter. 
+you went to a restaurant, based on your experience you wants to pay tip to the waiter. 
 
 For example if the experience is excellent and the total bill is 2000 
 
